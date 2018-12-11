@@ -1,14 +1,14 @@
 export const personData = [
-    {id: 1, nume: 'Alexandru', poza:'opendata/alexandru.png'},
+    {id: 1, nume: 'Alexandru', poza:'opendata/alexandru.jpg'},
     {id: 2, nume: 'Anca', poza:'opendata/anca.jpg'},
-    {id: 3, nume: 'Olga', poza:'opendata/olga.png'},
+    {id: 3, nume: 'Olga', poza:'opendata/olga.jpg'},
     {id: 4, nume: 'Ana', poza:'opendata/ana.jpg'},
     {id: 5, nume: 'Iosif', poza:'opendata/iosif.jpg'},
     {id: 6, nume: 'Dorin', poza:'opendata/dorin.jpg'},
-    {id: 7, nume: 'Ileana', poza:'opendata/ileana.png'},
-    {id: 8, nume: 'Dana', poza:'opendata/dana.png'},
+    {id: 7, nume: 'Ileana', poza:'opendata/ileana.jpg'},
+    {id: 8, nume: 'Dana', poza:'opendata/dana.jpg'},
     {id: 9, nume: 'Stefan', poza:'opendata/stefan.jpg'},
-    {id: 10, nume: 'Dodi', poza:'opendata/dodi.png'},  
+    {id: 10, nume: 'Dodi', poza:'opendata/dodi.jpg'},  
   ];
 
   export const obiectData = [
